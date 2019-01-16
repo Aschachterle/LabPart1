@@ -1,0 +1,45 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f9fafc;
+}
+.navlogo {
+    display: inline;
+    font-weight: 800;
+}
+nav {
+    float: right;
+}
+a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    text-decoration: none;
+    color: #69696a
+}
+.hireus {
+    background-color: #000000;
+    border-radius: 25px;
+    color: white;
+    padding-right: 35px;
+    padding-left: 35px;
+}
+header {
+    margin: 25px;
+}
+main {
+    position: relative;
+    top: 50%;
+    transform: translateY(50%);
+    margin-left: 25px;
+}
+section {
+    padding-left: 20px;
+    width: 40%;
+    border-left: 2px solid lightgray;
+    color: #69696a;
+}
+.logo {
+    font-size: 2em;
+    font-weight: 900;
+}
