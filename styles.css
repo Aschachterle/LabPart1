@@ -75,9 +75,9 @@ section {
     background-color: rgba(247, 193, 162, 0.7);
 }
 .circle3 {
-    position: absolute;
-    right: 45%;
-    bottom: 20%;
+    position: relative;
+    right: 85%;
+    bottom: 60%;
     width: 300px;
     height: 300px;
     border-radius: 50%;
